@@ -264,3 +264,6 @@ height: auto;
 .form-wrapper input.error{
  background: #feeeef;
 }
+.remodal-close{
+	display: none;
+}
