@@ -91,7 +91,8 @@ box-shadow:         0px 3px 5px 0px rgba(50, 50, 50, 0.4);
 	text-decoration: none;
 }
 .gallery_box{
-	margin-top: 97px;
+	margin-top: 0;
+	padding-top: 97px;
 }
 .gallery_box h3{
 }
@@ -266,4 +267,7 @@ height: auto;
 }
 .remodal-close{
 	display: none;
+}
+.btn-call{
+	margin:0 20px;
 }
